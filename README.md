@@ -33,7 +33,7 @@ This project builds a binary classification model to predict whether a loan appl
 
 
 
-Key Steps & Results
+# Key Steps & Results
 - Data Preprocessing
   - Missing values filled using forward fill
   - Categorical features encoded with LabelEncoder
